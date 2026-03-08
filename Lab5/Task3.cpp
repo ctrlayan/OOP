@@ -25,14 +25,19 @@ void Concatenate::setString(string s)
     sentence = s; 
 }
 
+string Concatenate::getString()
+{
+    return sentence;
+}
+
 int main() 
 { 
     string s1,s2; 
     Concatenate obj1,obj2,obj3; 
 
-    cout << "Enter the first string" << endl; 
+    cout << "Enter the first string: " << endl; 
     getline(cin,s1); 
-    cout << "Enter the second string" << endl; 
+    cout << "Enter the second string: " << endl; 
     getline(cin,s2);
 
     cout << "Initial strings: " << endl; 

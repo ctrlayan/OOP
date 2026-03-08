@@ -50,6 +50,4 @@ int main()
     obj1 = obj2 + obj3; 
     cout << "After concatenation: " << endl; 
     cout << "String: " << obj1.getString() << endl; 
-
-    return 0;
 }

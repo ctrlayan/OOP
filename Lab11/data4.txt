@@ -1,0 +1,15 @@
+Name: Ayan
+Date Of Birth: 20/10/2005
+Place Of Birth: Karachi
+Age: 20
+CGPA: 4
+Name: Ayan
+Date Of Birth: 20/10/2005
+Place Of Birth: Karachi
+Age: 20
+CGPA: 4
+Name: Hamza
+Date Of Birth: 25/4/2008
+Place Of Birth: Islamabad
+Age: 3
+CGPA: 0
